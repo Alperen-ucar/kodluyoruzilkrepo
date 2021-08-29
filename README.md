@@ -1,7 +1,8 @@
 # kodluyoruzilkrepo
 ---
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![](https://github.com/Alperen-ucar/kodluyoruzilkrepo/blob/main/ilk.png)
+
+![ilk](https://github.com/Alperen-ucar/kodluyoruzilkrepo/blob/main/ilk.png)
 
 ##Installation
 ---
@@ -14,8 +15,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 ##Linux için:
-```cd kodluyoruzilkrepo
-code .```
+`cd kodluyoruzilkrepo
+code .`
 
 ##Contributing
 ---
