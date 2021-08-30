@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
----
+
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ![ilk](https://github.com/Alperen-ucar/kodluyoruzilkrepo/blob/main/ilk.png)
